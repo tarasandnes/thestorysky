@@ -17,7 +17,7 @@ namespace TheStorySky
             Console.ReadKey();
             Console.WriteLine("Fuck you world");
             Console.Beep(220, 4000);
-            Console.WriteLine("Now you can press any key and go fuck yourself, that is, piss off bye");
+            Console.WriteLine("Now you can DRUK any key and go fuck yourself, that is, piss off bye");
             Console.ReadLine();
         }
     }
